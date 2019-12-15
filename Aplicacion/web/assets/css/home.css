@@ -1,0 +1,34 @@
+html,
+body {
+  height: 100vh;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+}
+
+.button-collapse {
+  position: fixed;
+  left: 30px;
+  top: 30px;
+  z-index: 10;
+}
+
+.menu {
+  position: relative;
+  top: 30px;
+}
+
+.logo-wrapper {
+  height: 200px !important;
+}
+
+.my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
